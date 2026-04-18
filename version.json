@@ -1,11 +1,14 @@
 {
-  "version": "1.0.4",
-  "notes": [
-    "Kritik Hata Giderildi: Kervanda set eşyalarına bakarken oluşan çökme sorunu çözüldü.",
-    "Dengeleme: Kamikaze (dönen yaratık) ve Barrel (dash atan) yaratıklar ciddi şekilde güçlendirildi.",
-    "Bakiye: Ninja sınıfı için Katana menzili %50 oranında artırıldı.",
-    "Kullanıcı Deneyimi: Envanter tuşu 'I' yerine 'TAB' olarak güncellendi.",
-    "Sistem: Launcher üzerinden indirme ve başlatma daha güvenli hale getirildi."
-  ],
-  "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.4/Boxhead2.0.zip"
+    "version": "1.0.5",
+    "notes": [
+        "Envanter Filtreleme: Eşyaları Nadirlik ve Türe göre süzme özelliği eklendi.",
+        "Toplu Satış: Normal, Magic ve Rare eşyalar tek tıkla satılabilir (Set eşyaları korunur).",
+        "Crafting Sayfalama: Çok sayıda orb olduğunda ekranın taşması engellendi.",
+        "Crafting Crash Fix: Orb basarken oluşan 'stack' hatası giderildi.",
+        "Hiper-Agresif Barrel AI: Dash atma karar mesafesi 2000'e çıkarıldı.",
+        "Yeni Skill: '📏 Menzil (+Melee Range)' ile yakın dövüş silahlarının menzili artırılabilir.",
+        "UI İyileştirmeleri: Envanter tuşu TAB olarak güncellendi, Tooltip hataları giderildi."
+    ],
+    "date": "2026-04-18",
+    "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.5/Boxhead2.0.zip"
 }
