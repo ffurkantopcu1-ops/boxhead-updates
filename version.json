@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "notes": [
     "Kritik Hata Giderildi: Kervanda set eşyalarına bakarken oluşan çökme sorunu çözüldü.",
     "Dengeleme: Kamikaze (dönen yaratık) ve Barrel (dash atan) yaratıklar ciddi şekilde güçlendirildi.",
