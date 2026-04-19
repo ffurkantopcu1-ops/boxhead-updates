@@ -1,19 +1,17 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "status": "RELEASE",
   "changes": [
-    "--- BÜYÜK v1.0.7 BOSS & ZOOM GÜNCELLEMESİ ---",
-    "💀 Boss: Abyssal Lord (EchelionFinrod) mekanikleri tamamen yenilendi.",
-    "🔄 Faz Sistemi: Boss artık her %10 can kaybında (toplam 9 kez) faz değiştiriyor (1-2-3 döngüsü).",
-    "🎯 Rehberlik: Labyrinth of Fire fazında Sütunlar (Pillars) için kırmızı, Static Silence fazında Güvenli Bölgeler (Safe Zones) için yeşil oklar eklendi.",
-    "🟢 Güvenli Bölge Revizyonu: Güvenli bölgeleri bulma süresi 4.5s, içeride kalma süresi 3.5s yapıldı. Süre sonunda dışarıda kalmak artık ağır hasar verir.",
-    "🔍 Zoom Sistemi: Farenin orta tekerleği ile oyun dünyasını yakınlaştırıp uzaklaştırma (0.4x - 2.0x) özelliği eklendi.",
-    "💨 Dash Buff: Dash atarken oyuncu artık tamamen hasar almaz (Immune) hale getirildi.",
-    "🛡️ Boss Savunması: Bossun immune fazında DoT (ateş, zehir vb.) hasarı alması engellendi.",
-    "📏 UI: Boss can barı yukarı taşındı, isim ve sayısal HP değerleri eklendi.",
-    "🩹 Hata Giderme: Boss odasında (Wave 10) diğer yaratıkların spawn olması engellendi.",
-    "⚖️ Dengeleme: Kamikaze (Barrel) düşmanların dash hızı %50 azaltıldı."
-    ],
-    "date": "2026-04-19",
-    "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.7/Boxhead2.0.zip"
+    "--- GÜÇ ÖLÇEKLENDİRME (AURA & ESSENCE) GÜNCELLEMESİ v1.0.8 ---",
+    "✨ Essence (Öz) Sistemi: Boss ve Elitlerden düşen özler ile kalıcı Base Stat (HP, Hasar, Zırh vb.) geliştirme eklendi.",
+    "🔮 Aura Tapınağı: Oyun sonu için devasa çarpanlar sağlayan 20+ yeni Aura eklendi.",
+    "🧿 Yeni Slot: 'Orb (Küre)' ekipman slotu ve Aura sınırını artıran eşya mekanikleri eklendi.",
+    "🔱 Aura Sovereign Seti: Aura etkisini artıran ve +1 Aura limiti veren efsanevi set eklendi.",
+    "🏥 UI: Oyuncunun başının üzerindeki can barına sayısal HP değerleri (Mevcut/Max) eklendi.",
+    "🛑 Sistem Kilidi: Aura ve Essence sistemleri artık Wave 10 Boss'u yenilmeden önce kilitli kalacak.",
+    "🛡️ Hata Giderme: Altın ve İksirlerin yerden alındıktan sonra sonsuz kaynak vermesi hatası (Infinite Loot Bug) düzeltildi.",
+    "⚙️ Stabilite: Aura sekmesinde sayfa değiştirirken yaşanan arayüz çökmesi (UnboundLocalError) giderildi."
+  ],
+  "date": "2026-04-19",
+  "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.8/Boxhead2.0.zip"
 }
