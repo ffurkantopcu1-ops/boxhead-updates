@@ -1,20 +1,19 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "status": "RELEASE",
   "changes": [
-    "--- BÜYÜK v1.0.6 DENGE VE SİSTEM GÜNCELLEMESİ ---",
-    "💎 Eşya Özellik Tier Sistemi (T1-T3) eklendi. T1 özellikler sarı renkli ve %50 daha güçlüdür.",
-    "🛡️ Eşyaların başına Prefix [P] ve Suffix [S] etiketleri eklendi.",
-    "🤖 Yapay Zeka: Tahminli hareket sistemi oyuncu lehine basitleştirildi; düşmanlar artık doğrudan üzerinize gelmektedir.",
-    "🏹 Okçu (Toxic Pit) Menzili: Atış menzili ve kaçma mesafesi 2 katına çıkarıldı (1200 birim).",
-    "🌪️ Düşman Havuzu: 'Normal' (kırmızı) düşmanlar havuzdan çıkarıldı. Okçu ve Dash (Kamikaze/Barrel) sayısı artırıldı.",
-    "🚀 Barrel Dash: Dash hızı ve mesafesi 2 katına çıkarıldı.",
-    "🩹 Hata Giderme: ItemSystem 'mf_value' ve Tooltip 'filter_orbs' çökme hataları düzeltildi.",
-    "🩹 Hata Giderme: Wave 10 Boss çökmeleri ve friendly-fire (zehir) hasarı giderildi.",
-    "🩹 Hata Giderme: Eşya isimlendirmesindeki prefix tekrarları (Devasa Devasa...) engellendi.",
-    "⚔️ Dengeleme: Kan Kılıcı menzili Eski Kılıç ile eşitlendi.",
-    "💰 Ekonomi: Orb fiyatları güncellendi ve nadir orbların düşüş oranları düzenlendi."
+    "--- BÜYÜK v1.0.7 BOSS & ZOOM GÜNCELLEMESİ ---",
+    "💀 Boss: Abyssal Lord (EchelionFinrod) mekanikleri tamamen yenilendi.",
+    "🔄 Faz Sistemi: Boss artık her %10 can kaybında (toplam 9 kez) faz değiştiriyor (1-2-3 döngüsü).",
+    "🎯 Rehberlik: Labyrinth of Fire fazında Sütunlar (Pillars) için kırmızı, Static Silence fazında Güvenli Bölgeler (Safe Zones) için yeşil oklar eklendi.",
+    "🟢 Güvenli Bölge Revizyonu: Güvenli bölgeleri bulma süresi 4.5s, içeride kalma süresi 3.5s yapıldı. Süre sonunda dışarıda kalmak artık ağır hasar verir.",
+    "🔍 Zoom Sistemi: Farenin orta tekerleği ile oyun dünyasını yakınlaştırıp uzaklaştırma (0.4x - 2.0x) özelliği eklendi.",
+    "💨 Dash Buff: Dash atarken oyuncu artık tamamen hasar almaz (Immune) hale getirildi.",
+    "🛡️ Boss Savunması: Bossun immune fazında DoT (ateş, zehir vb.) hasarı alması engellendi.",
+    "📏 UI: Boss can barı yukarı taşındı, isim ve sayısal HP değerleri eklendi.",
+    "🩹 Hata Giderme: Boss odasında (Wave 10) diğer yaratıkların spawn olması engellendi.",
+    "⚖️ Dengeleme: Kamikaze (Barrel) düşmanların dash hızı %50 azaltıldı."
     ],
-    "date": "2026-04-18",
-    "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.6/Boxhead2.0.zip"
+    "date": "2026-04-19",
+    "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.7/Boxhead2.0.zip"
 }
