@@ -1,8 +1,13 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "status": "RELEASE",
   "changes": [
-    "ecthelion'ın götü genişletildi"
+    "ecthelion'ın oyunu zorlaştırıldı"
+    "ecthelion artık can çalarak yaratıkların içinde oturamayacak"
+    ecthelion'ın üstüne wave başı %15 daha az yaratık gelicek"
+    "ecthelion' bunu test ettikten sonra dota'ya davet edilecek"
+    "ecthelion yalancı ve dolandırıcı olduğu teyit edilecek"
+    
   ],
   "date": "2026-04-19",
   "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.1.0/Boxhead_v1.1.0.zip"
