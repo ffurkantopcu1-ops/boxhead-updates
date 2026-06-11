@@ -2,16 +2,8 @@
   "version": "1.1.0",
   "status": "RELEASE",
   "changes": [
-    "--- GÜÇ ÖLÇEKLENDİRME (AURA & ESSENCE) GÜNCELLEMESİ v1.0.8 ---",
-    "✨ Essence (Öz) Sistemi: Boss ve Elitlerden düşen özler ile kalıcı Base Stat (HP, Hasar, Zırh vb.) geliştirme eklendi.",
-    "🔮 Aura Tapınağı: Oyun sonu için devasa çarpanlar sağlayan 20+ yeni Aura eklendi.",
-    "🧿 Yeni Slot: 'Orb (Küre)' ekipman slotu ve Aura sınırını artıran eşya mekanikleri eklendi.",
-    "🔱 Aura Sovereign Seti: Aura etkisini artıran ve +1 Aura limiti veren efsanevi set eklendi.",
-    "🏥 UI: Oyuncunun başının üzerindeki can barına sayısal HP değerleri (Mevcut/Max) eklendi.",
-    "🛑 Sistem Kilidi: Aura ve Essence sistemleri artık Wave 10 Boss'u yenilmeden önce kilitli kalacak.",
-    "🛡️ Hata Giderme: Altın ve İksirlerin yerden alındıktan sonra sonsuz kaynak vermesi hatası (Infinite Loot Bug) düzeltildi.",
-    "⚙️ Stabilite: Aura sekmesinde sayfa değiştirirken yaşanan arayüz çökmesi (UnboundLocalError) giderildi."
+    ecthelion'ın götü genişletildi
   ],
   "date": "2026-04-19",
-  "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.0.13/Boxhead2.0.zip"
+  "url": "https://github.com/ffurkantopcu1-ops/boxhead-updates/releases/download/v1.1.0/Boxhead_v1.1.0.zip"
 }
